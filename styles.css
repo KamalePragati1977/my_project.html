@@ -1,0 +1,15 @@
+* {
+  margin: 50;
+  padding: 50;
+  font-family: sans-serif;
+}
+.cafe {
+  width:1000mm;
+  height: 10cm;
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75),url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.findingkansascity.com%2Flists%2F7-exceptional-coffee-shops-in-downtown-kc&psig=AOvVaw1D6LVFnPuIEKkhYtqjyygp&ust=1691425818627000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCP5aq6yIADFQAAAAAdAAAAABAJ));
+  background-size: contain;
+  background-position: center;
+}
+img {
+  max-width: 50%;
+}
